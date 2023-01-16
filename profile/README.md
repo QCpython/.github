@@ -1,6 +1,4 @@
-# QCpython
-
-QCpython is a community-driven organization dedicated to the development and promotion of the open-source Python library for quantum computing, QCpy. 
+QCpython is the community-driven organization dedicated to the development and promotion of the open-source Python library for quantum computing, QCpy. 
 
 ## QCpy
 
