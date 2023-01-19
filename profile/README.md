@@ -1,8 +1,8 @@
-QCpython is the community-driven organization dedicated to the development and promotion of the open-source Python library for quantum computing, QCpy. 
+QCpython is a community-driven organization dedicated to the development and promotion of the open-source Python library for quantum computing, QCpy. 
 
 ## QCpy
 
-QCpy is a comprehensive and user-friendly library for quantum computing, providing a wide range of functionality for quantum algorithms and quantum circuits. It is built on top of popular open-source libraries such as NumPy and Matplotlib and is compatible with Python 3.
+QCpy is a comprehensive and user-friendly library for quantum computing, providing a wide range of functionality for quantum algorithms and quantum circuits. It is built on using open-source libraries NumPy and Matplotlib; compatible with Python 3.
 
 ## Features
 
